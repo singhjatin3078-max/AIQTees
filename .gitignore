@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Vectorstore / cache dirs
+.chroma/
+.cache/
+
+# Streamlit config
+.streamlit/

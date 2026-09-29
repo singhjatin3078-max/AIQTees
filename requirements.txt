@@ -1,0 +1,10 @@
+google-genai>=2.0.0
+langchain==0.0.284
+langchain_experimental
+python-dotenv>=1.0.0
+streamlit>=1.22.0
+faiss-cpu>=1.7.0
+pymysql>=1.0.0
+mysql-connector-python
+sentence-transformers>=2.2.0
+protobuf~=3.20.0
